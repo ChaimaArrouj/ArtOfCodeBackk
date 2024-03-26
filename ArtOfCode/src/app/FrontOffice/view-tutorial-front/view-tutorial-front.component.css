@@ -1,0 +1,13 @@
+
+  p {
+    font-size: 14px; /* Modifier cette valeur selon vos besoins */
+  }
+  html{
+    font-size: 16,
+  }
+  
+  /* Add this CSS code to decrease the font size of title and level badges */
+  .card-body .badge {
+    font-size: 14px; /* Adjust the font size as needed */
+  }
+
